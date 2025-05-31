@@ -12,7 +12,7 @@ import CoursePrice from './CoursePrice';
 
 const Course = () => {
     return (
-        <div>
+        <div className="px-4 md:px-0">
             {<CourseWelcome />}
             {<RestOfCourseDetailSection />}
         </div>

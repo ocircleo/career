@@ -13,8 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Career Ex | Root Layout",
-  description: "Developed by salman Hossain",
+  title: "Bangladesh Counsel for Career Excellence",
+  description:
+    "Boost your career with expert-led courses tailored for success in Bangladesh. Discover skills that employers value, advance professionally, and unlock new opportunities with our career development programs.",
 };
 
 export default function RootLayout({ children }) {

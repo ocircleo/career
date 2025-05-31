@@ -26,7 +26,7 @@ export default Instructor;
 function InstructorProfile() {
     return (
         <div className='flex gap-4 mt-5'>
-            <img src="?" alt="" className='w-28 aspect-square rounded-full bg-gray-200' />
+            <img src="?" alt="" className='w-28 h-28 rounded-full bg-gray-200' />
             <div className='flex flex-col gap-2'>
                 <div className='flex gap-4 items-center'>
                     <FaStar className='text-gray-700 shrink-0 mt-1 text-sm' />
